@@ -1,3 +1,8 @@
+// Name: Ronny Odhiambo Okinyi
+// Reg : BCS-05-0540/2026
+// Date : 6/10/2026
+
+
 #include <stdio.h>
 
 #define PI 3.142
